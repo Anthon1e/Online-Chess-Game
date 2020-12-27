@@ -1,6 +1,6 @@
 # Online Chess Pygame
 
-This is a chess game written in Python [Python](https://www.python.org "Python homepage") 3.6.9, using the pygame, sockets and threading libraries. The engine supports 2 players playing at a time, on different machines and networks. Basic client server system is made based on [TechwithTim's tutorial](https://www.youtube.com/watch?v=_fx7FQ3SP0U "Online server tutorial"), while rest of the code handle UI and actual gameplay. 
+This is a chess game written in [Python](https://www.python.org "Python homepage") 3.6.9, using the pygame, sockets and threading libraries. The engine supports 2 players playing at a time, on different machines and networks. Basic client server system is made based on [TechwithTim's tutorial](https://www.youtube.com/watch?v=_fx7FQ3SP0U "Online server tutorial"), while rest of the code handle UI and actual gameplay. 
 
 ## To Run the Code
 
