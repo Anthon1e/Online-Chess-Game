@@ -23,7 +23,7 @@ Then, you can run the server.py on one machine, then start one instance of clien
 
 ![](https://github.com/Anthon1e/Online-Chess-Pygame/blob/main/Sample1.gif)
 
-![](https://github.com/Anthon1e/Online-Chess-Pygame/blob/main/Sample1.gif)
+![](https://github.com/Anthon1e/Online-Chess-Pygame/blob/main/Sample2.gif)
 
 ## Known Bugs
 
